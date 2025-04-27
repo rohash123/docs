@@ -54,8 +54,9 @@
     ]
   },
   "logo": {
-    "light": "/logo/geotrackerlogo.svg",
-    "dark": "/logo/geotrackerlogo.svg"
+    "light": "/logo/vibe-logo-with-text.svg",
+    "dark": "/logo/vibe-logo-with-text.svg",
+    "href": "https://www.vibeaeo.com"
   },
   "navbar": {
     "links": [

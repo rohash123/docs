@@ -1,3 +1,8 @@
+---
+title: Compete
+description: Analyze and improve your competitive position in the market
+---
+
 # Compete
 
 The Compete module helps you analyze and improve your competitive position in the market.

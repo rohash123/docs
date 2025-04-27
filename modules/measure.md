@@ -1,3 +1,8 @@
+---
+title: Measure
+description: Track and analyze your digital performance metrics
+---
+
 # Measure
 
 The Measure module helps you track and analyze your digital performance metrics.

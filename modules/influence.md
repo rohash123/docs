@@ -1,3 +1,8 @@
+---
+title: Influence
+description: Build and measure your digital influence
+---
+
 # Influence
 
 The Influence module helps you build and measure your digital influence.

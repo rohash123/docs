@@ -1,3 +1,8 @@
+---
+title: Boost
+description: Enhance your digital visibility and reach
+---
+
 # Boost
 
 The Boost module helps you enhance your digital visibility and reach.

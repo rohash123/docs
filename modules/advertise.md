@@ -1,3 +1,8 @@
+---
+title: Advertise
+description: Create and manage effective advertising campaigns
+---
+
 # Advertise
 
 The Advertise module helps you create and manage effective advertising campaigns.

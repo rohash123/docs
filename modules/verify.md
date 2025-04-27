@@ -1,3 +1,8 @@
+---
+title: Verify
+description: Ensure the authenticity and accuracy of your digital presence
+---
+
 # Verify
 
 The Verify module ensures the authenticity and accuracy of your digital presence.

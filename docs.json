@@ -31,58 +31,29 @@
             ]
           },
           {
-            "group": "Modules",
+            "group": "Monitor",
             "pages": [
-              "modules/measure",
-              "modules/verify",
-              "modules/compete",
-              "modules/influence",
-              "modules/boost",
-              "modules/advertise"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
+              "monitor/analytics"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Evaluate",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "evaluate/verify",
+              "evaluate/compete",
+              "evaluate/influence"
+            ]
+          },
+          {
+            "group": "Optimize",
+            "pages": [
+              "optimize/boost",
+              "optimize/advertise"
             ]
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/geotrackerlogo.svg",
@@ -91,14 +62,14 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Home",
+        "href": "https://www.vibeaeo.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Get Started",
+      "href": "https://vibeaeo.com/auth"
     }
   },
   "footer": {

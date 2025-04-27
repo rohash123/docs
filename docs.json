@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#4A90E2",
+    "light": "#FAF9F7",
+    "dark": "#F46B45"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -17,19 +17,26 @@
             "group": "Get Started",
             "pages": [
               "introduction",
-              "quickstart",
-              "development"
+              "quickstart"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Setup",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "setup/brand-information",
+              "setup/buyer-profiles",
+              "setup/competitors"
+            ]
+          },
+          {
+            "group": "Modules",
+            "pages": [
+              "modules/measure",
+              "modules/verify",
+              "modules/compete",
+              "modules/influence",
+              "modules/boost",
+              "modules/advertise"
             ]
           }
         ]
@@ -76,8 +83,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/geotrackerlogo.svg",
+    "dark": "/logo/geotrackerlogo.svg"
   },
   "navbar": {
     "links": [

@@ -31,7 +31,8 @@
           {
             "group": "Monitor",
             "pages": [
-              "monitor/analytics"
+              "monitor/analytics",
+              "monitor/sources"
             ]
           },
           {

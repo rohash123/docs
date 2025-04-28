@@ -17,15 +17,17 @@
             "group": "Get Started",
             "pages": [
               "introduction",
+              "how-vibe-works",
               "AEO-vs-SEO"
             ]
           },
           {
             "group": "Setup",
             "pages": [
-              "setup/brand-information",
+              "setup/brand-context",
+              "setup/competitors",
               "setup/buyer-profiles",
-              "setup/competitors"
+              "setup/web-script"
             ]
           },
           {
